@@ -10,7 +10,7 @@ import ContainerBody from './components/layouts/ContainerBody';
 function App() {
   return (
     <>
-      <BrowserRouter basename='/react-shop'>
+      <BrowserRouter>
         <ContextProvider>
           <Navbar />
           <Routes>

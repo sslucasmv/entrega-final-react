@@ -7,7 +7,7 @@ const Navbar = () => {
         <nav>
             <div className="nav-center">
                 <div className="logo">
-                    <NavLink to="/react-shop" className="link-logo">
+                    <NavLink to="./" className="link-logo">
                         <img src="https://i.ibb.co/7Gjg8NB/logourbanshop.png" alt="logo" />
                         <div className="logo-title">
                             <span className="color-logo1">URBAN</span>
